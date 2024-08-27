@@ -1,4 +1,4 @@
-## Hola, mi nombre es Joan 👋
+## Hi, I'm Joan 👋
 
 📊 **Data Science**
 
