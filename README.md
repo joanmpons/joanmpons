@@ -2,7 +2,7 @@
 
 📊 **Data Science**
 
-Como profesional de los datos, me especializo en descubrir tendencias, informar decisiones, mejorar estrategias y reducir costos. Mi experiencia abarca procesos de ETL, bases de datos, algoritmos de Machine Learning, algoritmos de optimización y herramientas de visualización. Estos conocimientos me sirven para enfrentarme a desafíos complejos y generar planes de acción fundamentados en los datos.
+As a data professional, I specialize in uncovering trends, informing decisions, improving strategies, and reducing costs. My experience spans ETL processes, databases, Machine Learning algorithms, optimization algorithms, and visualization tools. This expertise allows me to tackle complex challenges and develop data-driven action plans.
 
 ## Stack tecnológico principal:
 
