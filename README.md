@@ -1,7 +1,5 @@
 ## Hi, I'm Joan 👋
 
-📊 **Data Science**
-
 As a data professional, I specialize in uncovering trends, informing decisions, improving strategies, and reducing costs. My experience spans ETL processes, databases, Machine Learning algorithms, optimization algorithms, and visualization tools. This expertise allows me to tackle complex challenges and develop data-driven action plans.
 
 ## Stack tecnológico principal:
